@@ -123,8 +123,6 @@ If you use this repository, please cite:
 
 ## 🧑‍💻 Authors
 
-* First Author (corresponding) – *[your.email@example.com](mailto:your.email@example.com)*
-
 * Hyungyum Jang† – *[hyungyumjang@gmail.com](mailto:hyungyumjang@gmail.com)*
 * Hyunsoo Shin† – *[shinhs000624@gmail.com](mailto:shinhs000624@gmail.com)*
 * Hawon Lee – *[hw7825@korea.ac.kr](mailto:hw7825@korea.ac.kr)*
