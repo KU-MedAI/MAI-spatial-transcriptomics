@@ -111,29 +111,26 @@ If you use this repository, please cite:
 
 ```
 @article{YourPaper2025,
-  title   = {Lightweight Deep Learning for Spatial Gene Expression Prediction from Single H&E Spots with EfficientNet},
-  author  = {First Author and Second Author and Third Author},
-  journal = {Bioinformatics / Computational Pathology},
+  title   = {From Histology to Spatial Transcriptomics: Establishing a Lightweight Single-Patch Baseline},
+  author  = {Hyungyum Jang†, Hyunsoo Shin†, Hawon Lee, Yena Jang, Sunghoon Jung*, Minji Jeon*},
+  journal = {},
   year    = {2025}
 }
 ```
 
 ---
 
-## 📌 Notes
-
-* **Why "BLEEP"?**
-  BLEEP was the previous state-of-the-art single-spot model (contrastive learning approach).
-  Our work **outperforms BLEEP**, but the repo name `BLEEP` was initially kept for continuity.
-  You may rename it to something more reflective (e.g., **EffB0-ST**, **HE2Gene-Lite**).
-
----
 
 ## 🧑‍💻 Authors
 
 * First Author (corresponding) – *[your.email@example.com](mailto:your.email@example.com)*
-* Second Author
-* Third Author
+
+* Hyungyum Jang† – *[hyungyumjang@gmail.com](mailto:hyungyumjang@gmail.com)*
+* Hyunsoo Shin† – *[shinhs000624@gmail.com](mailto:shinhs000624@gmail.com)*
+* Hawon Lee – *[hw7825@korea.ac.kr](mailto:hw7825@korea.ac.kr)*
+* Yena Jang – *[jyenaney@gmail.com](mailto:jyenaney@gmail.com)*
+* Sunghoon Jung* – *[shjung@hansung.ac.kr](mailto:shjung@hansung.ac.kr)*
+* Minji Jeon* – *[mjjeon@korea.ac.kr](mailto:mjjeon@korea.ac.kr)*
 
 Contributions follow the paper: †Equal contribution.
 
