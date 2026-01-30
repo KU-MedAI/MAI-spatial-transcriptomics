@@ -110,11 +110,12 @@ python 23_compare_augs.py
 If you use this repository, please cite:
 
 ```
-@article{YourPaper2025,
-  title   = {From Histology to Spatial Transcriptomics: Establishing a Lightweight Single-Patch Baseline},
-  author  = {Hyungyum Jang†, Hyunsoo Shin†, Hawon Lee, Yena Jang, Sunghoon Jung*, Minji Jeon*},
-  journal = {},
-  year    = {2025}
+@article{Jang2026histology,
+  title={From Histology to Spatial Transcriptomics: Establishing a Lightweight Single-Patch Baseline},
+  author={Jang, Hyungyum and Shin Hyunsoo and Lee, Hawon and Jang, Yena and Jung, Sunghoon and Jeon, Minji},
+  journal={BMC Bioinformatics},
+  year={2026},
+  note={In Press}
 }
 ```
 
