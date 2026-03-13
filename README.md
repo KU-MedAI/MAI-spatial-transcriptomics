@@ -112,7 +112,7 @@ If you use this repository, please cite:
 ```
 @article{Jang2026histology,
   title={From Histology to Spatial Transcriptomics: Establishing a Lightweight Single-Patch Baseline},
-  author={Jang, Hyungyum and Shin Hyunsoo and Lee, Hawon and Jang, Yena and Jung, Sunghoon and Jeon, Minji},
+  author={Jang, Hyungyum and Shin, Hyunsoo and Lee, Hawon and Jang, Yena and Jung, Sunghoon and Jeon, Minji},
   journal={BMC Bioinformatics},
   year={2026},
   note={In Press}
