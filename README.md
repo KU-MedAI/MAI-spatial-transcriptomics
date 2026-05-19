@@ -99,7 +99,7 @@ python 23_compare_augs.py
 
 ## 📊 Results (Summary)
 
-* EfficientNet-B0 achieved **r = 0.315** on HEG, significantly outperforming BLEEP and ST-Net【144†source】.
+* EfficientNet-B0 achieved **r = 0.310** on HEG, significantly outperforming BLEEP and ST-Net【144†source】.
 * Predicted **50 genes with r ≥ 0.30**, compared to only 20 by ResNet-50 with 5× more parameters.
 * MPA augmentation provided stable gains compared to ST-Net augmentations.
 
@@ -137,4 +137,4 @@ Contributions follow the paper: †Equal contribution.
 
 ## 📄 License
 
-This project is licensed under the terms of the **MIT License**.
+This project is licensed under the terms of the **Apache-2.0 license**.
