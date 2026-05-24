@@ -1,11 +1,20 @@
-# README
+# From Histology to Spatial Transcriptomics
 
-## Project: Lightweight Deep Learning for Spatial Gene Expression Prediction
+[![Paper](https://img.shields.io/badge/Paper-BMC%20Bioinformatics-blue)](https://doi.org/10.1186/s12859-026-06447-7)
+[![Model](https://img.shields.io/badge/Backbone-EfficientNet--B0-green)]()
+[![Task](https://img.shields.io/badge/Task-Spatial%20Gene%20Expression%20Prediction-orange)]()
 
-This repository contains the official implementation of our study on **spatial gene expression prediction from single H\&E histology spots** using **EfficientNet-B0** and lightweight deep learning strategies.
+This is the official implementation of:
 
-Our work establishes a **reproducible performance ceiling** for single-spot prediction tasks, significantly outperforming prior methods such as **BLEEP** and **ST-Net** on the **GSE240429 human liver dataset**【144†source】.
+> **From histology to spatial transcriptomics: establishing a lightweight single-patch baseline**  
+> *BMC Bioinformatics*, 2026  
+> DOI: https://doi.org/10.1186/s12859-026-06447-7
 
+This repository contains the training and evaluation pipeline for our lightweight deep learning baseline for spatial gene expression prediction from single H&E histology spots.
+
+The goal of this work is not to introduce a highly complex architecture, but to establish a strong, reproducible, and computationally efficient single-patch baseline. By using EfficientNet-B0, fixed data splits, controlled seeds, and morphology-preserving augmentation, we provide a standardized reference for evaluating how much additional performance can be gained from spatial context, multi-resolution modeling, or larger architectures.
+
+Our implementation reproduces the main single-patch experiments on the GSE240429 human liver Visium dataset and compares against prior methods including BLEEP and ST-Net.
 ---
 
 ## 📌 Key Highlights
@@ -110,12 +119,12 @@ python 23_compare_augs.py
 If you use this repository, please cite:
 
 ```
-@article{Jang2026histology,
-  title={From Histology to Spatial Transcriptomics: Establishing a Lightweight Single-Patch Baseline},
+@article{jang2026histology,
+  title={From histology to spatial transcriptomics: establishing a lightweight single-patch baseline},
   author={Jang, Hyungyum and Shin, Hyunsoo and Lee, Hawon and Jang, Yena and Jung, Sunghoon and Jeon, Minji},
-  journal={BMC Bioinformatics},
+  journal={BMC bioinformatics},
   year={2026},
-  note={In Press}
+  publisher={Springer}
 }
 ```
 
