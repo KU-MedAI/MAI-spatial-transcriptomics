@@ -1,4 +1,4 @@
-# From Histology to Spatial Transcriptomics
+# From Histology to Spatial Transcriptomics: establishing a lightweight single-patch baseline
 
 [![Paper](https://img.shields.io/badge/Paper-BMC%20Bioinformatics-blue)](https://doi.org/10.1186/s12859-026-06447-7)
 [![Model](https://img.shields.io/badge/Backbone-EfficientNet--B0-green)]()
