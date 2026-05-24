@@ -15,6 +15,8 @@ This repository contains the training and evaluation pipeline for our lightweigh
 The goal of this work is not to introduce a highly complex architecture, but to establish a strong, reproducible, and computationally efficient single-patch baseline. By using EfficientNet-B0, fixed data splits, controlled seeds, and morphology-preserving augmentation, we provide a standardized reference for evaluating how much additional performance can be gained from spatial context, multi-resolution modeling, or larger architectures.
 
 Our implementation reproduces the main single-patch experiments on the GSE240429 human liver Visium dataset and compares against prior methods including BLEEP and ST-Net.
+
+   
 ---
 
 ## 📌 Key Highlights
