@@ -59,7 +59,7 @@ BLEEP/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Medical-AI-GSE240429/Code.git
+git clone https://github.com/KU-MedAI/MAI-spatial-transcriptomics.git
 cd your_repo
 ```
 
